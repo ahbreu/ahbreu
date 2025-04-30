@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou movido por tecnologia, inovação e café forte. Atualmente, atuo como Analista de Sistemas com foco em ITSM (BMC Helix), mas também mergulho em desenvolvimento web e projetos ousados de IA local com memória, contexto e muita personalidade.
+Sou movido por tecnologia, inovação e um sopro criativo que vem do verde da natureza. Atualmente, atuo como Analista de Sistemas com foco em ITSM (BMC Helix), mas também mergulho fundo no desenvolvimento web e em projetos ousados de IA local — com memória, contexto e personalidade de verdade. Gosto de transformar ideias em código vivo, sempre buscando soluções fora do óbvio.
 
 ---
 
